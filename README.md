@@ -1,8 +1,6 @@
 # micr00b
 
 
-# micr00b
-
 //Ce dépôt contient une trace publique pour un challenge OSINT fictif.
 
 //Contexte : Faculté des Sciences de Tétouan, session normale, enquête académique.
